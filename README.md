@@ -1,6 +1,7 @@
 # ExploringML
 
 A project template that you can use in your Machine Learning Projects. 
+
 > Feel free to add anything you feel I missed in here or should be mentioned.
 
 # Python Project Template
