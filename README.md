@@ -32,3 +32,6 @@ A project template that you can use in your Machine Learning Projects.
 - a) Predictions on validation dataset
 - b) Create standalone model on entire training dataset
 - c) Save model for later use
+
+## 7. Deploy Model (Optional)
+- a) Create an API to access the saved model
